@@ -2,6 +2,8 @@
 
 **Authors:** [Alan Wang](https://www.linkedin.com/in/alan-wang-4100681bb/), [Juan Cruz Assad](https://www.linkedin.com/in/juan-cruz-assad)
 
+**Note**: The contents of this repository were imported from the [original Gitlab repository](https://gitlab.oit.duke.edu/ayw14/code-plus-team-will-dcc).
+
 ## Project Introduction
 This project was part of the [Duke University Code+ 2022 Program](https://codeplus.duke.edu/projects/visualization-python-duke-data-scientists). The primary goal of this project was to develop interactive visualization tools and workflows to help Duke researchers analyze and visualize their large datasets. The visualizations developed and documented for this project were created using Holoviews and Datashader in JupyterLab notebooks that were hosted in OnDemand sessions on the [Duke Compute Cluster](https://dcc.duke.edu/OpenOnDemand/). 
 
