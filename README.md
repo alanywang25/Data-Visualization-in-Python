@@ -8,8 +8,8 @@
 This project was part of the [Duke University Code+ 2022 Program](https://codeplus.duke.edu/projects/visualization-python-duke-data-scientists). The primary goal of this project was to develop interactive visualization tools and workflows to help Duke researchers analyze and visualize their large datasets. The visualizations developed and documented for this project were created using Holoviews and Datashader in JupyterLab notebooks that were hosted in OnDemand sessions on the [Duke Compute Cluster](https://dcc.duke.edu/OpenOnDemand/). 
 
 <p float="left">
-  <img src="/images/03_affluence_map_img.gif" width = "400" height = "180"/>
-  <img src="/images/05_gpu_posts_map_img.gif" width = "440" height = "180"/> 
+  <img src="/images/03_affluence_map_img.gif" width = "400" height = "200"/>
+  <img src="/images/05_gpu_posts_map_img.gif" width = "440" height = "200"/> 
 </p>
 
 These were some of the visualizations created through this project. To see more of these visualizations, see the `Visualizations` section of the README.
